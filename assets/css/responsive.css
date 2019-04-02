@@ -1,0 +1,720 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+ .mainmenu-area ul li a {
+    padding: 37px 5px;
+} 
+.hero-content {
+    width: 69%;
+}
+.single-homepage-item {
+    width: auto;
+    height: auto;
+}
+.about-right-side {
+    width: 129%;
+}
+.about-area .angle-content-inner h2 {
+    font-size: 18px;
+    margin-top: 45px;
+}
+.about-right-side .angle-content-inner img {
+    max-width: 45px;
+    bottom: 16%;
+    left: 12%;
+}
+.angle-content-inner img {
+    left: 32%;
+    bottom: 27%;
+}
+.tanssion-area-1 .section-title h1, .tanssion-area-1 .section-title p, .tanssion-area-1 .section-title h2, .tanssion-area-1 .section-title h3 {
+    text-align: center;
+    padding-left: 0;
+}
+.section-title h1, .section-title p, .section-title h2, .section-title h3 {
+    text-align: center;
+    padding-left: 0;
+}
+
+.tanssion-area-4 .angle-content-inner img {
+    top: 1%;
+    left: 11%;
+}
+.tanssion-area-4 .angle-content-inner h2 {
+    margin: 20px 0;
+    font-size: 16px;
+    margin-left: 37px;
+}
+.social-link a {
+    width: 40px;
+    height: 40px;
+    margin: 25px 5px;
+    line-height: 40px;
+}
+.device-right-side .device-product-2 {
+    width: 64%;
+}
+.tanssion-area-2 .angle-content-inner img {
+    margin-left: -9%;
+    width: 55px;
+    margin-bottom: 47px;
+}
+.tanssion-area-2 .angle-content-inner h2 {
+    margin-top: -14%;
+}
+
+.featured-bg-area.right-side {
+    width: 94%;
+
+}
+.tanssion-area-6 .angle-content-inner {
+    margin-top: -115px;
+    margin-right: 53px;
+}
+.tanssion-area-6 .round-top-bottom-area .angle-content-inner h2 {
+    top: 19%;
+    line-height: 1.3;
+}
+
+}
+
+/* Tablet Layout: 768px. */
+@media only screen and (max-width: 991px) { 
+  .menu-trigger {
+    display: block;
+}
+.mainmenu-area, .header-right{
+	display: none;
+}
+.header-logo img {
+    max-width: 90px;
+}
+
+.featured-bg-area.right-side {
+    position: relative;
+    margin: 0 auto;
+    right:0;
+}
+.tanssion-area-9 .featured-bg-area {
+    margin-bottom: 180px;
+
+}
+.social-link a {
+    width: 40px;
+    height: 40px;
+    margin: 20px 1px;
+    line-height: 40px;
+    font-size: 16px;
+}
+ 
+}
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+ .about-right-side {
+    background-size: 100%;
+    width: 148%;
+}
+ 
+.about-right-side .angle-content-inner img {
+    bottom: 28%;
+}
+.hero-content h1 {
+    font-size: 25px;
+}
+.hero-content {
+    width: 64%;
+}
+.tanssion-area-1 .section-title h1, .tanssion-area-1 .section-title p, .tanssion-area-1 .section-title h2, .tanssion-area-1 .section-title h3 {
+    text-align: center;
+    padding-left: 0;
+}
+.tanssion-area-1 .angle-content-inner h2 {
+    line-height: 1.3;
+    top: 20%;
+}
+.angle-content-inner img {
+    left: 32%;
+    bottom: 26%;
+    width: 55px;
+}
+
+.tanssion-area-2 .tanssion-list, .tanssion-area-4 .tanssion-list, .tanssion-area-6 .tanssion-list, .tanssion-area-8 .tanssion-list {
+    margin-left: 50px;
+    margin-right:10px;
+}
+
+.section-title h1, .section-title p, .section-title h2, .section-title h3 {
+    text-align: center;
+    padding-left: 0;
+}
+.tanssion-area-2 .section-title, .tanssion-area-4 .section-title, .tanssion-area-6 
+.section-title, .tanssion-area-8 .section-title {
+    margin-left: 60px;
+    margin-right: 5px;
+
+}
+.tanssion-area-2 .angle-content-inner img {
+    margin-left: -9%;
+    width: 40px;
+    margin-bottom: 82px;
+
+}
+.tanssion-area-2 .angle-content-inner h2 {
+    margin-left: 33%;
+    font-size: 19px;
+    margin-top: -20%;
+    line-height: 1.3;
+}
+
+.tanssion-area-3 .angle-content-inner img, .tanssion-area-7 .angle-content-inner img, .tanssion-area-9 .angle-content-inner img {
+    left: 21%;
+    top: 43%;
+}
+.tanssion-area-3 .angle-content-inner h2, .tanssion-area-7 .angle-content-inner h2, .tanssion-area-9 .angle-content-inner h2 {
+    margin-left: 37%;
+    margin-top: 70px;
+    font-size: 17px;
+    line-height: 1.4;
+}
+
+.tanssion-area-4 .angle-content-inner img {
+    left: 15%;
+    top: 0;
+    width: 35px;
+
+}
+
+.tanssion-area-5 .section-title, .tanssion-area-7 .section-title {
+    width: 154%;
+    margin-bottom: 120px;
+    margin-left: -86%;
+}
+.round-top-bottom-area .angle-content-inner img {
+    width: 45px;
+    margin-left: -67px;
+}
+.tanssion-area-5 .round-top-bottom-area .angle-content-inner h2 {
+    line-height: 1.4;
+	left: 27%;
+}
+
+.tanssion-area-4 .angle-content-inner h2 {
+    margin: 5px;
+    font-size: 12px;
+    margin-left: 48px;
+}
+
+.tanssion-area-6 .round-top-bottom-area .angle-content-inner img {
+   left: 30%;
+}
+
+.tanssion-area-6 .round-top-bottom-area .angle-content-inner h2 {
+    top: 13%;
+    line-height: 1.3;
+}
+.tanssion-area-7 .featured-bg-area {
+    top: auto;
+    bottom: 14%;
+
+}
+.tanssion-area-7 .section-title h1, .tanssion-area-7 .section-title p, .tanssion-area-7 .section-title h2, .tanssion-area-7 .section-title h3 {
+    text-align: center;
+    padding-left: 0;
+
+}
+.tanssion-area-7 .angle-content-inner img, .tanssion-area-9 .angle-content-inner img {
+    width: 47px;
+
+}
+.device-right-side .device-product-2 {
+    width: 67%;
+}
+.advice-area img.car-bg {
+    bottom: 33%;
+    height: auto;
+    width: 109%;
+}
+.advice-area .author-bg {
+    height: 210px;
+
+}
+}
+
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 919px) { 
+.about-right-side {
+    width: 133%;
+}
+.tanssion-area-2 .angle-content-inner h2 {
+    margin-left: 33%;
+    margin-top: -25%;
+}
+.tanssion-area-2 .angle-content-inner img {
+    margin-left: -11%;
+}
+   
+}
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 850px) { 
+ 
+}
+
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) { 
+.featured-bg-area {
+    position: relative;
+}
+ 
+.single-package-item {
+    padding: 15px 10px;
+    margin-bottom: 30px;
+}
+.device-right-side .device-product-2 {
+    width: 60%;
+}
+.advice-area img.car-bg {
+    position: relative;
+    max-width: 349px;
+    margin:0 auto;
+    margin-top: 35px;
+}
+.advice-area .owl-nav .owl-prev span, .advice-area .owl-nav .owl-next span {
+    bottom: 0;
+}
+.about-right-side {
+    background-size: 100%;
+    position: relative;
+    right: -12px;
+    width: 100%;
+    height: 300px;
+    top:0;
+}
+.hero-content:before {
+    top: auto;
+    opacity: .4;
+    margin-top: 45px;
+    height: 74%;
+}
+.hero-content {
+    width: auto;
+    padding: 5px 20px;
+}
+.hero-area div {
+    height: auto;
+}
+.hero-content h1 {
+    margin-top: 45px;
+    font-size: 22px;
+}
+.homepage-area .owl-dots {
+    bottom: 0;
+}
+.homepage-inenr .boxed-btn {
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+.hero-area .homepage-area .hero-content {
+    margin-bottom: 24px;
+}
+
+.tanssion-area-1 .section-title {
+    margin-top: 165px;
+}
+
+.tanssion-area-1 .section-title h1, .tanssion-area-1 .section-title p, .tanssion-area-1 .section-title h2, .tanssion-area-1 .section-title h3 {
+    text-align: center;
+    padding-left: 0;
+}
+
+.section-title h1, .section-title p, .section-title h2, .section-title h3 {
+    text-align: center;
+    padding-left: 0;
+}
+.tanssion-area-2 .section-title, .tanssion-area-4 .section-title, .tanssion-area-6 .section-title, .tanssion-area-8 .section-title {
+    margin-left: 0;
+}
+.tanssion-area-2 .tanssion-list, .tanssion-area-4 .tanssion-list, .tanssion-area-6 .tanssion-list, .tanssion-area-8 .tanssion-list {
+    margin: 0 20px;
+}
+
+.boxed-btn {
+    margin-bottom: 30px;
+}
+.tanssion-area-2 .angle-content-inner img {
+    margin-left: -16%;
+    width: 35px;
+    margin-bottom: -3px;
+}
+.tanssion-area-2 .angle-content-inner h2 {
+    margin-left: 31%;
+    font-size: 15px;
+}
+.tanssion-area-7 .featured-bg-area {
+    margin-bottom: 140px;
+}
+.tanssion-area-8 .featured-bg-area .round-top-bottom-area .angle-content-inner img {
+    top: -116px;
+    margin-left: -30px;
+
+}
+.tanssion-area-9 .angle-content-inner h2 {
+    margin-left: 43%;
+   margin-top: 185px;
+}
+html, body, .hero-area {
+    height: 95%;
+}
+.social-link a {
+    width: 40px;
+    height: 40px;
+    margin: 20px 1px;
+    line-height: 40px;
+    font-size: 16px;
+}
+}
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) { 
+.tanssion-area-1 .angle-content-inner img {
+    position: absolute;
+    left: 33%;
+    bottom: 29%;
+    width: 70px;
+}
+.tanssion-area-2 .angle-content-inner img {
+    width: 52px;
+}
+.tanssion-area-2 .angle-content-inner h2 {
+    font-size: 23px;
+}
+.tanssion-area-5 .featured-bg-area {
+    padding-top: 158px;
+
+}
+.tanssion-area-4 .angle-content-inner h2 {
+    margin: 35px 0;
+    font-size: 15px;
+}
+.tanssion-area-4 .angle-content-inner img {
+    left: 16%;
+    top: 12%;
+}
+.footer-bottom-area h4 {
+    font-weight: 700;
+    top: 60%;
+    right: -3px;
+    font-size: 15px;
+}
+.footer-menu h3 {
+    font-size: 25px;
+}
+.footer-bottom-left p {
+    line-height: 1.4;
+    margin-top: 14px;
+}
+}
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+.featured-bg-area.right-side {
+    position: relative;
+    margin: 0 auto;
+    right:0;
+}
+
+.tanssion-area-2 .section-title, .tanssion-area-4 .section-title, .tanssion-area-6 .section-title, 
+.tanssion-area-8 .section-title {
+    margin-left: 20px;
+}
+.tanssion-area-2 .tanssion-list, .tanssion-area-4 .tanssion-list, .tanssion-area-6 .tanssion-list, .tanssion-area-8 .tanssion-list {
+    margin: 0 50px;
+}
+.tanssion-area-3 .angle-content-inner img, .tanssion-area-7 .angle-content-inner img, .tanssion-area-9 .angle-content-inner img {
+    left: 28%;
+    top: 46%;
+    width: 62px;
+}
+.section-title h1, .section-title p, .section-title h2, .section-title h3 {
+    text-align: center;
+    padding-left: 0;
+}
+.tanssion-list .boxed-btn {
+    margin-bottom: 30px;
+}
+.tanssion-area-3 .featured-bg-area {
+    margin-bottom: 200px;
+}
+.tanssion-area-5 .round-top-bottom-area {
+    top: 0;
+}
+.tanssion-area-5 .round-top-bottom-area .angle-content-inner h2 {
+    top: 11%;
+    left: 34%;
+   font-size: 20px;
+}
+
+.tanssion-area-5 .round-top-bottom-area .angle-content-inner img {
+    top: 52px;
+    width: 50px;
+    left: 21%;
+}
+.tanssion-area-6 .angle-content-inner {
+    margin-top: -136px;
+}
+.tanssion-area-6 .round-top-bottom-area .angle-content-inner img {
+    left: 15%;
+    width: 55px;
+}
+.tanssion-area-6 .round-top-bottom-area, .tanssion-area-8 .round-top-bottom-area {
+    height: 69%;
+}
+.tanssion-area-7 .featured-bg-area {
+    margin-bottom: 180px;
+}
+img.logo-8 {
+    top: -98px;
+    left: 175px;
+}
+}
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 575px) { 
+.tanssion-area-1 .angle-content-inner img {
+    left: 33%;
+    bottom: 31%;
+    width: 60px;
+}
+
+.tanssion-area-2 .angle-content-inner img {
+    margin-left: -10%;
+    width: 50px;
+}
+.tanssion-area-2 .angle-content-inner h2 {
+    margin-left: 38%;
+}
+.tanssion-area-4 .angle-content-inner img {
+    left: 12%;
+    top: 4%;
+    width: 39px;
+}
+.tanssion-area-5 .featured-bg-area img {
+    padding-top: 140px;
+}
+.tanssion-area-5  .round-top-bottom-area {
+    top: 0;
+
+}
+.tanssion-area-5 .round-top-bottom-area .angle-content-inner img {
+    top: -97px;
+    width: 50px;
+    left: 21%;
+}
+
+.tanssion-area-4 .angle-content-inner h2 {
+    margin: 24px 0;
+    font-size: 13px;
+}
+}
+
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 380px) and (max-width: 576px) { 
+
+.traffic-area .row .col-sm-4 {
+    width: 50%;
+}
+.about-right-side .angle-content-inner img {
+    max-width: 46px;
+    bottom: 19%;
+    left: 17%;
+}
+}
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width:576px) { 
+.about-right-side .angle-content-inner img {
+    max-width: 46px;
+    bottom: 11%;
+    left: 14%;
+}
+.contact-us-area {
+    width: 40%;
+    float: right;
+    margin-top: -246px;
+}
+.footer-menu {
+    width: 40%;
+    overflow: hidden;
+}
+.footer-bottom-left h4 {
+    font-size: 20px;
+    font-weight: 700;
+}
+.footer-bottom-left {
+    text-align: center;
+    width: 70%;
+    margin-left: 15%;
+}
+
+}
+/* Wide Mobile Layout: 480px. */
+@media only screen and (max-width:576px) { 
+.menu-trigger {
+    margin-top: -60px;
+}
+.our-web {
+    margin-bottom: 0;
+}
+.footer-area {
+    position: relative;
+}
+}
+/* Wide Mobile Layout: 480px. */
+@media only screen and (max-width: 479px) { 
+.hero-content h1 {
+    margin-bottom: 0px;
+    padding-bottom: 7px;
+    margin-top: 47px;
+    font-size: 20px;
+}
+
+.hero-area .homepage-area .hero-content {
+    margin-bottom: 2px;
+}
+.single-homepage-item {
+    background-position: center;
+}
+.about-right-side .angle-content-inner img {
+    position: absolute;
+    max-width: 41px;
+    bottom: 20%;
+    left: 17%;
+}
+.tanssion-area-1 .angle-content-inner img {
+    left: 30%;
+    bottom: 29%;
+    width: 50px;
+}
+.tanssion-area-1 .angle-content-inner h2 {
+    position: absolute;
+    left: 42%;
+    line-height: 1.2;
+    font-size: 18px;
+    top: 16%;
+}
+.tanssion-area-3 .featured-bg-area {
+    margin-bottom: 200px;
+}
+.tanssion-area-3 .angle-content-inner img, .tanssion-area-7 .angle-content-inner img, .tanssion-area-9 .angle-content-inner img {
+   left: 12%;
+	top: 42%;
+	width: 45px;
+}
+.tanssion-area-3 .angle-content-inner h2, .tanssion-area-7 .angle-content-inner h2, .tanssion-area-9 .angle-content-inner h2 {
+    margin-left: 28%;
+    margin-top: 60px;
+	font-size: 15px;
+}
+.tanssion-area-4 .angle-content-inner h2 {
+    margin: 28px 0;
+    font-size: 12px;
+    margin-left: 25px;
+}
+.tanssion-area-4 .angle-content-inner img {
+    left: 15%;
+    top: 1%;
+    width: 33px;
+
+}
+.tanssion-area-5 .featured-bg-area img {
+    padding-top: 140px;
+}
+.tanssion-area-5  .round-top-bottom-area {
+    top: 0;
+
+}
+.tanssion-area-5 .round-top-bottom-area .angle-content-inner img {
+    top: -134px;
+    width: 50px;
+    left: 18%;
+}
+.tanssion-area-5 .round-top-bottom-area {
+    top: 0%;
+}
+.tanssion-area-5 .round-top-bottom-area .angle-content-inner h2 {
+    top: 4%;
+    left: 34%;
+    line-height: 1.3;
+}
+.tanssion-area-5 .round-top-bottom-area {
+    top: 0%;
+
+}
+.tanssion-area-6 .round-top-bottom-area .angle-content-inner h2 {
+    top: 19%;
+    left: 29%;
+    font-size: 20px;
+}
+.tanssion-area-4 .boxed-btn {
+    margin-bottom: 30px;
+}
+.tanssion-area-9 .angle-content-inner h2 {
+    margin-top: 141px;
+
+}
+img.logo-8 {
+    left: 38px;
+}
+
+}
+@media only screen and (max-width: 379px) { 
+.about-right-side .angle-content-inner img {
+    max-width: 41px;
+    bottom: 25%;
+    left: 17%;
+}
+.tanssion-area-5 .round-top-bottom-area .angle-content-inner img {
+    top: -134px;
+    width: 40px;
+    left: 18%;
+
+}
+.round-top-bottom-area .angle-content-inner h2 {
+    top: 4%;
+    left: 34%;
+    line-height: 1.3;
+
+}
+.tanssion-area-5 .featured-bg-area img {
+    padding-top: 94px;
+}
+.tanssion-area-5 .round-top-bottom-area .angle-content-inner img {
+    top: -81px;
+}
+.tanssion-area-6 .round-top-bottom-area, .tanssion-area-8 .round-top-bottom-area {
+    height: 92%;
+}
+.tanssion-area-6 .round-top-bottom-area .angle-content-inner img {
+    left: 10%;
+    width: 52px;
+}
+.social-link {
+    text-align: center;
+}
+
+
+
+}
+@media only screen and (min-width: 379px) and (max-width: 481px) { 
+.tanssion-area-5 .featured-bg-area img {
+    padding-top: 113px;
+}
+.tanssion-area-5 .round-top-bottom-area .angle-content-inner img {
+    top: -94px;
+}
+.tanssion-area-6 .round-top-bottom-area, .tanssion-area-8 .round-top-bottom-area {
+    height: 92%;
+}
+.tanssion-area-6 .round-top-bottom-area .angle-content-inner img {
+    left: 12%;
+    width: 52px;
+}
+.tanssion-area-6 .round-top-bottom-area .angle-content-inner h2 {
+    top: 14%;
+}
+}
+
